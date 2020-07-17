@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E251,E126,E121,E226,E261,E262,E402,E265,E501,E401,E722,E502,N802,N806,N803,N812,F403,F401,W292,W391,N801,W504,N814,W503,F405" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
