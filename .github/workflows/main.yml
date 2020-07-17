@@ -22,4 +22,4 @@ jobs:
         python -m pip install Django
     - name: Django Testing project
       run: |
-        python3 manage.py test
+        python3 manage.py test --keepdb
