@@ -24,3 +24,4 @@ jobs:
     - name: Django Testing project
       run: |
         python3 manage.py test --keepdb
+
